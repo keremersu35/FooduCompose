@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FooduApp</string>
+    <string name="onboarding_title1">Order For Food</string>
+    <string name="onboarding_title2">Easy Payment</string>
+    <string name="onboarding_title3">Fast Delivery</string>
+    <string name="onboarding_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</string>
+</resources>
