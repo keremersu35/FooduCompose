@@ -4,11 +4,11 @@ Foodu, yemek listesi ve detaylarının görülebileceği, yemek arama özelliği
 
 # Uygulama Görüntüleri
 
-<img src="ss/ss_light1.jpeg" width="270" height="590">  <img src="ss/ss_dark1.jpeg" width="270" height="590"> </br>
-<img src="ss/ss_light2.jpeg" width="270" height="590">  <img src="ss/ss_dark2.jpeg" width="270" height="590"> </br>
-<img src="ss/ss_light3.jpeg" width="270" height="590">  <img src="ss/ss_dark3.jpeg" width="270" height="590"> </br>
-<img src="ss/ss_light4.jpeg" width="270" height="590">  <img src="ss/ss_dark4.jpeg" width="270" height="590"> </br>
-<img src="ss/ss_light5.jpeg" width="270" height="590">  <img src="ss/ss_dark5.jpeg" width="270" height="590"> </br>
+<img src="ss/ss_light1.jpeg" width="270" height="590">  &nbsp &nbsp <img src="ss/ss_dark1.jpeg" width="270" height="590"> </br>
+<img src="ss/ss_light2.jpeg" width="270" height="590">  &nbsp &nbsp <img src="ss/ss_dark2.jpeg" width="270" height="590"> </br>
+<img src="ss/ss_light3.jpeg" width="270" height="590">  &nbsp &nbsp <img src="ss/ss_dark3.jpeg" width="270" height="590"> </br>
+<img src="ss/ss_light4.jpeg" width="270" height="590">  &nbsp &nbsp <img src="ss/ss_dark4.jpeg" width="270" height="590"> </br>
+<img src="ss/ss_light5.jpeg" width="270" height="590">  &nbsp &nbsp <img src="ss/ss_dark5.jpeg" width="270" height="590"> </br>
 
 # API 
 
